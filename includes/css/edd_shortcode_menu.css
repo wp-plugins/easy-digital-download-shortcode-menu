@@ -1,0 +1,17 @@
+span.mce_EDD_shortcode_menu_button{
+	background-image:url(images/edd-icon.png);
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+
+span.mce_EDD_shortcode_menu_button:hover{
+	background-image:url(images/edd-icon.png);
+	background-repeat:no-repeat;
+	background-position:center 3px;
+}
+
+/*
+@media(-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){
+span.mce_EDD_shortcode_shortcodes_button{background-image:url(images/icons/wc_icon@2x.png)!important;background-size:18px 18px!important}
+}
+*/
