@@ -27,9 +27,15 @@ e.g.
 
 The Shortcode Button
 
+== Frequently Asked Questions ==
+
+
+== Upgrade Notice ==
+
+
 == Changelog ==
 
-=2.4=
+= 2.4 =
 TinyMCE 4.0 update. Menu button is now back.
 
 
